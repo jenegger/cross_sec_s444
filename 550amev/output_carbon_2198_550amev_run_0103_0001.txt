@@ -1,0 +1,21 @@
+****************CARBON RUN 21.98 mm, 550 AMeV, Runnr:  0103_0001   ******************
+CUTS:
+-----------Before target region:---------
+max_mw0x:	-2.5	min_mw0x:	-2.98
+max_mw0y:	-9.59	min_mw0y:	-14.8
+max_music_charge:	5.86289	min_music_charge:	5.54289
+-----------------------------------------
+
+-----------After target region:---------
+max_twim_charge:	6.7	min_twim_charge:	5.02
+-----------------------------------------
+
+------------OUTPUT------------------
+Clean incoming 12C:	80456
+Number of survived hits in TWIM:	69315
+Number of carbon in TWIM:	67673
+Number of survived hits in MW2:	55161
+Number of survived hits in MW3:	29904
+ Number of survived 11C's in MW3:	470
+Number of survived 11C's & 10C's (inclusive) in MW3:	509
+*******END OF FILE **************

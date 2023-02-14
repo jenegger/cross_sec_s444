@@ -1,0 +1,29 @@
+
+**********CROSS SECTION MEASUREMENT***********
+
+**********TARGET------------PLASTIC, 12.29 mm,density = 0.94 g/cm**3***********
+Number of CH2 targets per cm**2:	4.95997e+22
+number of min bias events:	13768654
+number of reactions, no correction:	48118
+corrected reactions	516311
+12C(p,2p)X inclusive:	
+756.034  mbarn
+*******************************************************************************
+
+**********TARGET ------------CARBON, 5.4mm,density = 1.84 g/cm**3***********
+Number of carbon targets per cm**2:	4.98177e+22
+number of min bias events:	1897157
+number of reactions, no correction:	223
+corrected reactions	2114.54
+12C(p,2p)X inclusive:	
+22.3733  mbarn
+****************************************************************************
+
+**********TARGET ------------CARBON, 21.98 mm,density = 1.84 g/cm**3***********
+Number of carbon targets per cm**2:	2.02776e+23
+number of min bias events:	2604021
+number of reactions, no correction:	959
+corrected reactions	9936.58
+12C(p,2p)X inclusive:	
+18.8181  mbarn
+*******************************************************************************

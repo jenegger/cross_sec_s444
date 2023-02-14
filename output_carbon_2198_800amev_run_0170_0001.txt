@@ -1,0 +1,13 @@
+****************CARBON RUN 21.98 mm, 800 AMeV, Runnr:  0170_0001   ******************
+CUTS:
+-----------Before target region:---------
+max_mw0x:	0	min_mw0x:	-4.2
+max_mw0y:	-8.2	min_mw0y:	-16.6
+max_music_charge:	5.96458	min_music_charge:	5.60458
+-----------------------------------------
+
+-----------After target region:---------
+max_twim_charge:	6.4	min_twim_charge:	5.13
+-----------------------------------------
+
+------------OUTPUT------------------

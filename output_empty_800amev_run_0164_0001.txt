@@ -1,0 +1,19 @@
+****************EMPTY RUN, 800 AMeV, Runnr:  0164_0001   ******************
+CUTS:
+-----------Before target region:---------
+max_mw0x:	-1	min_mw0x:	-4
+max_mw0y:	-9.2	min_mw0y:	-16
+max_music_charge:	5.96765	min_music_charge:	5.60765
+-----------------------------------------
+
+-----------After target region:---------
+max_twim_charge:	6.4	min_twim_charge:	5
+-----------------------------------------
+
+------------OUTPUT------------------
+Clean incoming 12C:	410514
+Number of survived hits in TWIM:	384621
+Number of 12C in TWIM:	380672
+Number of survived hits in MW2:	376235
+Number of survived hits in MW3:	308351
+*******END OF FILE **************
